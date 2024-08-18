@@ -4,9 +4,9 @@
 moro no Brazil ❤️ nascido e criado nele 
 Atualmente estudando JS 📈📈📈
 
-Coisa sobre min ⁉️
+Coisas sobre min ⁉️
 
-Tenho 15 anos 
+Tenho 15 anos,
 Estou no 1 ano do ensino medio estudando JS
 
 
