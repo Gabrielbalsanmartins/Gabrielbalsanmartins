@@ -6,5 +6,4 @@
 
 
 
-![GabrielGitHub stats](https://github-readme-stats.vercel.app/api?Gabrielbalsanmartins
-=anuraghazra&show_icons=true&theme=radical)
+[![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielbalsanmartins)](https://github.com/anuraghazra/github-readme-stats)
